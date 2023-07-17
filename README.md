@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python,Power BI,Tableau**
 
-- 📫 How to reach me **monisharunagiri@gmail.com**
+- 📫 How to reach me **monishkumar.ai@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
