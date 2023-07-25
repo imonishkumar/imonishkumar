@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MONISH KUMAR</h1>
+<h1 align="center"> Hi 👋, I'm MONISH KUMAR</h1>
 <h3 align="center">Artificial Intelligence and Data Science Student</h3>
 
 - 🔭 I’m currently working on **Data Analytics and AI Projects**
