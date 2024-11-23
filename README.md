@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analytics and AI Projects**
 - 💬 Ask me about **Python, Power BI, Tableau, Flask, Django**
-- 📫 How to reach me: [monishkumar.ai@outlook.com](mailto:monishkumar.ai@outlook.com)
+- 📫 How to reach me: [monishkumarpecai@gmail.com](mailto:monishkumarpecai@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
